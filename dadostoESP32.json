@@ -1,0 +1,8 @@
+{
+    "symbol": "SOLUSDT",
+    "compra_8_20": false,
+    "venda_8_20": false,
+    "compra_elefante": false,
+    "venda_elefante": false,
+    "candles": []
+}
